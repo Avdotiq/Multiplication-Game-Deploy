@@ -264,7 +264,7 @@ Error generating stack: `+u.message+`
   background-image: url(${s0});
   background-size: cover;
   background-position: center;
-`,f0="/assets/bal_praise5-CR9mMkVT.mp3",d0="/assets/win-4WA376lo.gif";function p0(){const l=Fo();return zo(f0),I.useEffect(()=>{Bd(l)},[]),X.jsx(ws,{children:X.jsx(h0,{children:X.jsx(Qd,{link:"/",children:"Play again"})})})}const h0=De.div`
+`,f0="/assets/bal_praise5-CR9mMkVT.mp3",d0="/assets/win-4WA376lo.gif";function p0(){const l=Fo();return zo(f0,!0,1),I.useEffect(()=>{Bd(l)},[]),X.jsx(ws,{children:X.jsx(h0,{children:X.jsx(Qd,{link:"/",children:"Play again"})})})}const h0=De.div`
   &:after {
     position: absolute;
     left: 50%;
